@@ -1,4 +1,4 @@
-![TEKSI](https://github.com/teksi/academy/blob/main/Ressources/images/TEKSI_Training.png?raw=true)
+![TEKSI](https://github.com/teksi/academy/blob/main/Ressources/images/TEKSI_Academy.png?raw=true)
 
 ## Welcome to the TEKSI ACADEMY GitHub page 👋
 
