@@ -19,5 +19,5 @@ As we are strongly bind to the QGIS Community, several assets are also available
 
 ## COMMUNITY DRIVEN
 
-Let us know in the issues or the discussions what has to be known when using TEKSI modules.
+Let us know in the [issues]https://github.com/teksi/academy/issues or the [discussions](https://github.com/teksi/academy/discussions) what has to be known when using TEKSI modules.
 
